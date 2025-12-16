@@ -1,0 +1,16 @@
+student,qid,chosen,correct,marks
+S1,Q1,B,B,1.0
+S1,Q2,A,A,1.0
+S1,Q3,B,B,1.0
+S1,Q4,B,B,1.0
+S1,Q5,C,C,1.0
+S2,Q1,A,B,-0.25
+S2,Q2,A,A,1.0
+S2,Q3,C,B,-0.25
+S2,Q4,B,B,1.0
+S2,Q5,C,C,1.0
+S3,Q1,B,B,1.0
+S3,Q2,B,A,-0.25
+S3,Q3,B,B,1.0
+S3,Q4,A,B,-0.25
+S3,Q5,D,C,-0.25
