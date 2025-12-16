@@ -1,0 +1,6 @@
+id,text,options,correct,marks,penalty
+Q1,Largest planet?,A) Earth|B) Jupiter|C) Mars|D) Venus,B,1,0.25
+Q2,Capital of India?,A) Delhi|B) Mumbai|C) Chennai|D) Kolkata,A,1,0.25
+Q3,2 + 2 = ?,A) 3|B) 4|C) 5|D) 6,B,1,0.25
+Q4,Sun rises in the?,A) West|B) East|C) North|D) South,B,1,0.25
+Q5,H2O is?,A) Oxygen|B) Hydrogen|C) Water|D) Helium,C,1,0.25
